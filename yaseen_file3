@@ -7,6 +7,10 @@ n this file i have added data for Pull before push rule
 <<<<<<< Updated upstream
 #//dev 2 code
 print("helloworld")
-=======
 new updatedd code
->>>>>>> Stashed changes
+##dev-3 code
+a=int(input("enter num"))
+b=int(input("enetr num2"))
+c=a+b
+print(c)
+
